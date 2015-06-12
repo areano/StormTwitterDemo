@@ -1,2 +1,3 @@
 /topology-topNHashTags/*.iml
 .vagrant
+/topology-topNHashTags/target
