@@ -1,6 +1,7 @@
 # Storm Example for Twitter
 
 This is a simple example of [Storm](https://storm.apache.org/) using the [Twitter4J](http://twitter4j.org/en/index.html)  to get the "Top N Hashtags" at the moment.
+
 This code is based on the course [Real-Time Analytics with Apache Storm](https://www.udacity.com/course/real-time-analytics-with-apache-storm--ud381) from Udacity.
 
 ## Install
